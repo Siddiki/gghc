@@ -1,8 +1,8 @@
 # Twitter Engagement Analysis
 
-You can use the [editor on GitHub](https://github.com/Siddiki/twitter_analysis/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Methodology
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here. Methodology goes here.
 
 ### Markdown
 
