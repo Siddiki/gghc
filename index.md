@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Twitter Engagement Analysis
 
 You can use the [editor on GitHub](https://github.com/Siddiki/twitter_analysis/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,7 +15,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-HELLO 
 - Bulleted
 - List
 
