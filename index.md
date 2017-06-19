@@ -41,7 +41,7 @@ This table shows the percentage of days that users were engaged in the quarter. 
 
 #### Engagement
 
-It is clear from even a brief look at the graphs and tables that engagement has gone up. Multiple results show a small dip in the amount of engagement between quarter 1 and 2 of 2016, but after that, a big jump, one that is reflected by their revenue in the quarter: ["The company posted revenue of $616 million in revenue, an 8% lift year-over-year, and an adjusted profit of $0.13 a share in the three months that ended September 30."](http://www.businessinsider.com/twitter-q3-earnings-2016-10) What could cause this jump? One possibility is the election, one that will be remembered for having a big impact on social media. Another interesting jump in engagement is the one in Q2 2017. This one seems unnatural and baseless - the quarter isn't even over yet and there have been more tweets than the last few quarters by a significant margin. It seems unlikely to me that this jump is caused by human users, and is much more likely to be the result of bots. 
+It is clear from even a brief look at the graphs and tables that engagement has gone up. Multiple results show a small dip in the amount of engagement between quarter 1 and 2 of 2016, but after that, a big jump. What could cause this jump? One possibility is the election, one that will be remembered for having a big impact on social media. Another interesting jump in engagement is the one in Q2 2017. This one seems unnatural and baseless - the quarter isn't even over yet and there have been more tweets than the last few quarters by a significant margin. It seems unlikely to me that this jump is caused by human users, and is much more likely to be the result of bots. 
 
 #### Disparities
 
