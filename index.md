@@ -25,7 +25,7 @@ It is worth noting that due to limitations of the twitter API, only users with f
 
 ### Days Engaged
 
-This table shows the percentage of days that users were engaged in the quarter. For users in category 1, only 2 users had 100% engagement in a quarter, and both fell in Q2 2017 (which is still ongoing). For users in category 2, only 1 user had 100% engagement in a quarter, and that user also fell in Q2 2017 (which is still ongoing).
+This table shows the percentage of days that users were engaged in the quarter. For users in category 1, only 2 users had 100% engagement in a quarter, and both fell in Q2 2017 (which is still ongoing). For users in category 2, only 3 users had 100% engagement in a quarter, and those users also fell in Q2 2017 (which is still ongoing).
 
 |         | Users created before 2016 | Users Created Q1 2016 |
 |---------|---------------------------|-----------------------|
