@@ -1,8 +1,8 @@
 # Contents
-..*[Twitter Engagement Analysis](#twitter)
-..*[LinkedIn](#linkedin)
-..*[Instagram](#ig)
-..*[Earnings Calls Transcripts](#NLP)
+..* [Twitter Engagement Analysis](#twitter)
+..* [LinkedIn](#linkedin)
+..* [Instagram](#ig)
+..* [Earnings Calls Transcripts](#NLP)
 
 # Twitter Engagement Analysis
 
