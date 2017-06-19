@@ -31,4 +31,28 @@ For users in category 1, only 2 users had 100% engagement in a quarter, and both
 
 ## Analysis
 
-Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. 
+Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here.
+
+##### Collaborators
+
+Yaroslav Faybishenko
+
+# LinkedIn
+
+## Methodology
+
+This project is an effort to automate the identification of CFOs who have been a part of multiple companies that were acquired. 
+
+##### Collaborators
+
+Yaroslav Faybishenko
+
+# Instagram
+
+## Methodology
+
+This project documents the amount of times a location is being tagged on instagram.
+
+##### Collaborators
+
+Elena Burger, Lucy Tang
