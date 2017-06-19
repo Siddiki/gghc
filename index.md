@@ -6,6 +6,7 @@
 
 
 # Twitter Engagement Analysis
+We measured engagement by several hundred random users over the last roughly two years and are seeing rapid growth in engagement both in number of likes and retweets as well as in number of days per quarter during which these users are active.
 
 ## Methodology
 
