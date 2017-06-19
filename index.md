@@ -31,7 +31,13 @@ For users in category 1, only 2 users had 100% engagement in a quarter, and both
 
 ## Analysis
 
-Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here. Analysis goes here.
+#### Engagement
+
+It is clear from even a brief look at the graphs and tables that engagement has gone up. 
+
+#### A Few Grains of Salt
+
+It is important to note a few things to keep in mind when understanding this data. One is that the sample size is very small - twitter is estimated to have approximately 328 million users, not all of which are active. Due to limitations in the API, only users with fewer than 3200 tweets are analyzed, which again is not representative of the entire population. Nonetheless, through multiple experiments, the trends do stay fairly the same, and the trends themselves show something of value.
 
 ##### Collaborators
 
