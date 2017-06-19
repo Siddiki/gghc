@@ -1,8 +1,3 @@
-# Contents
-  * [Twitter Engagement Analysis](#twitter)
-  * [LinkedIn](#linkedin)
-  * [Instagram](#ig)
-  * [Earnings Calls Transcripts](#NLP)
 
 
 # Twitter Engagement Analysis
@@ -44,7 +39,7 @@ It is clear from even a brief look at the graphs and tables that engagement has 
 
 #### Disparities
 
-It is also interesting to note that as time goes on, the gap between likes, retweets, and tweets, continues to grow. It seems as time goes on, users are liking and retweeting much more than they are tweeting. 
+It is also interesting to note that as time goes on, the gap between likes, retweets, and tweets, continues to grow. It seems as time goes on, users are liking and retweeting much more than they are tweeting. This seems like it would be positive for advertisers - they benefit much more from a user who engages with other's tweets more than they tweet themselves. 
 
 #### A Few Grains of Salt
 
