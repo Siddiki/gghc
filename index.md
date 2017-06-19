@@ -1,5 +1,5 @@
 # Contents
-  * [Twitter Engagement Analysis](#twitter)
+  * [Twitter Engagement Analysis](#twitter-engagement-analysis)
   * [LinkedIn](#linkedin)
   * [Instagram](#instagram)
   * [Earnings Calls Transcripts](#earnings-calls-transcripts)
