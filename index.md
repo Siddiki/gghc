@@ -13,7 +13,7 @@ This project is an attempt to analyze the changing activity level of twitter use
 1. Users who had an account prior to 2016
 2. Users who created an account in Q1 2016
 
-It is worth noting that due to limitations of the twitter API, only users with fewer than 3200 tweets are analyzed. The program gathers and plots the total number of likes, retweets, and tweets by all users per quarter, divided by the number of users analyzed. Of the 2000 gathered users, approximately 200 met criteria 1 and about X users met criteria 2. The following plot is interactive. 
+It is worth noting that due to limitations of the twitter API, only users with fewer than 3200 tweets are analyzed. The program gathers and plots the total number of likes, retweets, and tweets by all users per quarter, divided by the number of users analyzed. Of the 2000 gathered users, approximately 200 met criteria 1 and about 20 users met criteria 2. The following plot is interactive. 
 
 ## Results
 
@@ -29,12 +29,12 @@ This table shows the percentage of days that users were engaged in the quarter. 
 
 |         | Users created before 2016 | Users Created Q1 2016 |
 |---------|---------------------------|-----------------------|
-| Q1 2016 | 27.3 %                    | 27.7%                 |
-| Q2 2016 | 22.8%                     | 20.9%                 |
-| Q3 2016 | 38.1%                     | 25.7%                 |
-| Q4 2016 | 41.0%                     | 25.0%                 |
-| Q1 2017 | 55.4%                     | 40.4%                 |
-| Q2 2017 | 68.5%                     | 62.2%                 |
+| Q1 2016 | 27.3 %                    | 29.8%                 |
+| Q2 2016 | 22.8%                     | 25.0%                 |
+| Q3 2016 | 38.1%                     | 30.2%                 |
+| Q4 2016 | 41.0%                     | 25.5%                 |
+| Q1 2017 | 55.4%                     | 43.3%                 |
+| Q2 2017 | 68.5%                     | 66.5%                 |
 
 
 ## Analysis
