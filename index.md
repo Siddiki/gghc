@@ -1,3 +1,8 @@
+# Contents
+  * [Twitter Engagement Analysis](#twitter)
+  * [LinkedIn](#linkedin)
+  * [Instagram](#ig)
+  * [Earnings Calls Transcripts](#NLP)
 
 
 # Twitter Engagement Analysis
@@ -20,6 +25,8 @@ It is worth noting that due to limitations of the twitter API, only users with f
 
 ### Days Engaged
 
+This table shows the percentage of days that users were engaged in the quarter. For users in category 1, only 2 users had 100% engagement in a quarter, and both fell in Q2 2017 (which is still ongoing).
+
 |         | Users created before 2016 | Users Created Q1 2016 |
 |---------|---------------------------|-----------------------|
 | Q1 2016 | 27.3 %                    |                       |
@@ -29,7 +36,6 @@ It is worth noting that due to limitations of the twitter API, only users with f
 | Q1 2017 | 55.4%                     |                       |
 | Q2 2017 | 68.5%                     |                       |
 
-For users in category 1, only 2 users had 100% engagement in a quarter, and both fell in Q2 2017 (which is still ongoing).
 
 ## Analysis
 
@@ -39,7 +45,7 @@ It is clear from even a brief look at the graphs and tables that engagement has 
 
 #### Disparities
 
-It is also interesting to note that as time goes on, the gap between likes, retweets, and tweets, continues to grow. It seems as time goes on, users are liking and retweeting much more than they are tweeting. This seems like it would be positive for advertisers - they benefit much more from a user who engages with other's tweets more than they tweet themselves. 
+It is also interesting to note that as time goes on, the gap between likes, retweets, and tweets, continues to grow. It seems as time goes on, users are liking and retweeting much more than they are tweeting. This seems like it would be positive for advertisers - they benefit much more from a user who engages with other's tweets more than they tweet themselves. It is also interesting to consider what twitter is doing differently to cause this. Are they doing a better job of suggesting tweets to users? Is the culture of twitter shifting towards reading more than tweeting? 
 
 #### A Few Grains of Salt
 
