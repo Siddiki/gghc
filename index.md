@@ -56,3 +56,13 @@ This project documents the amount of times a location is being tagged on instagr
 ##### Collaborators
 
 Elena Burger, Lucy Tang
+
+# Earnings Calls Transcripts
+
+## Methodology
+
+This project is an effort to learn attributes of earnings calls reports that have been indicative of positive results for a company in the past, and then process multiple reports to identify potentially interesting companies. 
+
+##### Collaborators
+
+Yaroslav Faybishenko, Steve Steinberg
