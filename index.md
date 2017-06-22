@@ -21,6 +21,7 @@ It is worth noting that due to limitations of the twitter API, only users with f
     <script data-plotly="siddiki:5" sharekey-plotly="A8EvcNHDElNb4ehiDmWgSA" src="https://plot.ly/embed.js" async></script>
 </div>
 
+
 ### Days Engaged
 
 This table shows the percentage of days that users were engaged in the quarter and the number of users that liked, tweeted, or retweeted something every day.
@@ -37,9 +38,14 @@ This table shows the percentage of days that users were engaged in the quarter a
 
 ## Analysis
 
+
+#### Bots
+
+Early runs of the experiment, run on the followers of celebrity accounts like Katy Perry's, showed that twitter truly has a bot problem. We noticed a massive uptick in activity of the most recent quarter, and a closer look at some of the accounts showed a pattern. Several users were accounts that were created several years ago, had little to no activity for a very long time, and then a sudden uptick of simply retweeting every post and mention regarding Katy Perry. It is very likely that social media managers for these celebrities are buying followers and interactions for a very cheap rate and using those to boost a celebrity's social media presence and consequently promotional power. More about bots in the appendix. 
+
 #### Engagement
 
-It is clear from even a brief look at the graphs and tables that engagement has gone up. Multiple results show a small dip in the amount of engagement between quarter 1 and 2 of 2016, but after that, a big jump. What could cause this jump? One possibility is the election, one that will be remembered for having a big impact on social media. Another interesting jump in engagement is the one in Q2 2017. This one seems unnatural and baseless - the quarter isn't even over yet and there have been more tweets than the last few quarters by a significant margin. It seems unlikely to me that this jump is caused by human users, and is much more likely to be the result of bots. 
+Engagement seemed to be on a fairly clear decline until about Q3 2016. Then likes and retweets take a steep turn for the better and the number of tweets stabilize. What could be the cause of this? Perhaps it was an election that will be remembered for how it impacted social media. And although these users aren't interacting as much, they are interacting as often. The users who did stay on the website seem to be using it on about as many days as they have in the past few quarters. 
 
 #### Disparities
 
@@ -47,11 +53,39 @@ It is also interesting to note that as time goes on, the gap between likes, retw
 
 #### A Few Grains of Salt
 
-It is important to note a few things to keep in mind when understanding this data. One is that the sample size is very small - twitter is estimated to have approximately 328 million users, not all of which are active. Due to limitations in the API, only users with fewer than 3200 tweets are analyzed, which again is not representative of the entire population. Nonetheless, through multiple experiments, the trends do stay fairly the same, and the trends themselves show something of value.
+It is important to note a few things to keep in mind when understanding this data. One is that the sample size is very small - twitter is estimated to have approximately 328 million users, not all of which are active. Due to limitations in the API, only users with fewer than 3200 tweets are analyzed, which again is not representative of the entire population.
 
 ##### Collaborators
 
 Yaroslav Faybishenko
+
+##### Appendix
+
+https://www.fastcompany.com/3000064/whos-woman-twitter-bot-profile :
+
+"Bots are cheap. The company Buy Real Marketing will sell you 1,000 of them for $17, or 25,000 for $247–meaning the value of each is about a penny. And who’s buying them? Anyone. A brand’s social media manager will never admit to it, but chances are, gigantic companies have invested in this cheap form of image building. Why wouldn’t they?
+Athletes definitely do it. A publicist for some major players–people at the top of their game–told me it’s common in his world. He once tried it himself, just to see what happens. He ordered the $17 package from Buy Real Marketing, via its website buytwitterfollowers.org. “They didn’t come in right away. I thought at first I’d been scammed,” he said. “But sure enough, within three days, they just poured in. It was exactly 1,000. To me, it shook the whole foundation. It made Twitter meaningless.”
+
+The publicist gave me the names of a few people who also bought from Buy Real Marketing, and I dug into their followers. The bots were easy to spot–and these bots, no surprise, follow plenty of other celebrities and big brands. There’s no way to know if these were purchased follows or just pure coincidence, of course, but the list is wide-ranging. One bot from this batch followed Kelly Osbourne, former Formula 1 racer Tiago Monteiro, the Huffington Post, and an “Internet marketing consultant” named Trent Partridge, among 2,000 others.
+
+website where you can purchase followers and retweets: https://www.buyrealmarketing.com/buy-twitter-followers (other sites:  Fiverr, SeoClerks, InterTwitter, FanMeNow, LikedSocial, SocialPresence and Viral Media Boost)
+
+NYT article about fake bots, estimating 20 million fake users in 2013: https://bits.blogs.nytimes.com/2013/04/05/fake-twitter-followers-becomes-multimillion-dollar-business/
+
+Why celebrities are buying bots:
+"But it turns out bots are becoming big business—not for Twitter users, but for companies that sell batches of fake accounts. Several companies exist solely to sell batches of fake accounts for anywhere from $2 to $30 per account. The bot-selling business could pull in $360 million at the higher end, and a more modest $40 million at the lower end.
+Those figures come from security researchers Carlo De Micheli and Andrea Stroppa, who told the New York Times that there are some 20 million fake Twitter accounts. They arrived at that number after analyzing the most popular tweet-sellers, including Fiverr and LikedSocial.
+There are many reasons someone would want to buy followers. After all, popularity is currency in social media. Companies, politicians, bloggers, and media outlets all benefit when they rack up followers. It’s even better when those followers retweet your content, like links to products, fundraising pages, or articles. A robust number of followers and retweets lend legitimacy in the social media world. Real people are more apt to like something on Facebook or follow someone on Twitter if that product or person is already established.
+These days, fake followers are being fleshed out with seemingly real names, bios, and even websites. But the real emphasis is on retweets—companies or individuals can buy a certain number of retweets per account per day. Stroppa and De Micheli told the Times that five retweets a day can be had for $9 a month, and 125 daily retweets for $150 a month."
+
+Vice article from March stating 15 percent of twitter users are bots, mentions how it affects advertising:
+
+https://news.vice.com/story/twitters-users-are-15-percent-robot-but-thats-not-necessarily-a-bad-thing
+
+"A new study from the University of Southern California and Indiana University finds that up to 48 million Twitter users — or 15 percent of all users — are bots...
+Advertisers pay Twitter when an an action takes place — a retweet, a like, or click-through on a link — so certain types of bots can disrupt Twitter’s business with fraudulent clicks. But if bots are sharing information like regular users, are they necessarily bad for advertisers? It seems that bots, like people, can be good, bad, or neither."
+
+Interesting read about how bots affected the election: https://www.theatlantic.com/technology/archive/2016/11/election-bots/506072/
 
 # LinkedIn
 
