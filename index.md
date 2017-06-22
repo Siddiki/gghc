@@ -26,7 +26,7 @@ It is worth noting that due to limitations of the twitter API, only users with f
 
 This table shows the percentage of days that users were engaged in the quarter and the number of users that liked, tweeted, or retweeted something every day.
 
-|         | Users created before 2016 | Users Active Everyday |
+|         | Average Days engaged      | Users Active Everyday |
 |---------|---------------------------|-----------------------|
 | Q1 2016 | 38.20%                    | 3                     |
 | Q2 2016 | 33.86%                    | 0                     |
