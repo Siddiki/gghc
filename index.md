@@ -6,15 +6,12 @@
 
 
 # Twitter Engagement Analysis
-We measured engagement by several hundred random users over the last roughly two years and are seeing rapid growth in engagement both in number of likes and retweets as well as in number of days per quarter during which these users are active.
 
 ## Methodology
 
-This project is an attempt to analyze the changing activity level of twitter users on a quarter to quarter basis. The program gathers approximately 2000 users who have recently interacted with a tweet from an account with a high number of followers (Like former President Barack Obama ([@BarackObama](https://twitter.com/barackobama)) or Pop Star Katy Perry ([@KatyPerry](https://twitter.com/katyperry)) and produces results for two classes of users:
-1. Users who had an account prior to 2016
-2. Users who created an account in Q1 2016
+This project is an attempt to analyze the changing activity level of twitter users on a quarter to quarter basis. Originally, the program gathered users who had recently interacted with a tweet from an account with a high number of followers (Like former President Barack Obama ([@BarackObama](https://twitter.com/barackobama)) or Pop Star Katy Perry ([@KatyPerry](https://twitter.com/katyperry)) and produced results for number of likes, retweets, and tweets per quarter. What we found were incredibly biased results - and lots and lots of bots. In the updated run, users who interacted with a Jeff Bezos ([@JeffBezos](https://twitter.com/JeffBezos)) during or before Q! 2016 were sampled, and their activity plotted over time. 
 
-It is worth noting that due to limitations of the twitter API, only users with fewer than 3200 tweets are analyzed. The program gathers and plots the total number of likes, retweets, and tweets by all users per quarter, divided by the number of users analyzed. Of the 2000 gathered users, approximately 200 met criteria 1 and about 20 users met criteria 2. The following plot is interactive. 
+It is worth noting that due to limitations of the twitter API, only users with fewer than 3200 tweets are analyzed. The program gathers and plots the total number of likes, retweets, and tweets by all users per quarter, divided by the number of users analyzed. Of the 2000 gathered users, 545 met our criteria. The following plot is interactive. 
 
 ## Results
 
@@ -26,16 +23,16 @@ It is worth noting that due to limitations of the twitter API, only users with f
 
 ### Days Engaged
 
-This table shows the percentage of days that users were engaged in the quarter. For users in category 1, only 2 users had 100% engagement in a quarter, and both fell in Q2 2017 (which is still ongoing). For users in category 2, only 3 users had 100% engagement in a quarter, and those users also fell in Q2 2017 (which is still ongoing).
+This table shows the percentage of days that users were engaged in the quarter and the number of users that liked, tweeted, or retweeted something every day.
 
-|         | Users created before 2016 | Users Created Q1 2016 |
+|         | Users created before 2016 | Users Active Everyday |
 |---------|---------------------------|-----------------------|
-| Q1 2016 | 27.3 %                    | 29.8%                 |
-| Q2 2016 | 22.8%                     | 25.0%                 |
-| Q3 2016 | 38.1%                     | 30.2%                 |
-| Q4 2016 | 41.0%                     | 25.5%                 |
-| Q1 2017 | 55.4%                     | 43.3%                 |
-| Q2 2017 | 68.5%                     | 66.5%                 |
+| Q1 2016 | 38.20%                    | 3                     |
+| Q2 2016 | 33.86%                    | 0                     |
+| Q3 2016 | 31.05%                    | 1                     |
+| Q4 2016 | 31.06%                    | 1                     |
+| Q1 2017 | 32.29%                    | 5                     |
+| Q2 2017 | 33.77%                    | 5                     |
 
 
 ## Analysis
