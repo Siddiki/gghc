@@ -131,7 +131,7 @@ A [blog post](https://blog.openai.com/unsupervised-sentiment-neuron/) from non-p
 
 This is an example of snippets of a conference call that were processed by the program. 
 
-<style type='text/css'>
+<html><style type='text/css'>
 html {
   font-family: Arial;
   color: #000000;
