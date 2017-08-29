@@ -130,8 +130,8 @@ A [blog post](https://blog.openai.com/unsupervised-sentiment-neuron/) from non-p
 ### Example output
 
 This is an example of snippets of a conference call that were processed by the program. In order of most negative to most positive the highlighting scheme is as follows: red, yellow, no highlight, green, blue. 
-----------
-----------
+
+***
 <html><style type='text/css'>
 html {
   font-family: Arial;
@@ -157,7 +157,6 @@ k {
   color: #000000
 }
 </style><k>
-...
 </k><br><b>In closing, our focus remains on executing our New World Fossil restructuring efforts, advancing our wearables initiative and stabilizing and growing our core watch business to drive long-term profitable growth. Given our conviction and the positive impact these initiatives can have on our financial performance, we are also working to ensure that we have the proper capital structure needed to support our long-term financial objectives.
 
 </b><br><k>
@@ -189,9 +188,7 @@ k {
 </k><br><g>We were able to offset the shortfall in our sales goals with higher traditional gross margins as we delivered stronger cost reductions in our supply chain and managed the quarter with lower recurring expenses.
 
 </g><br></html>
-
-----------
-----------
+***
 
 ## Logistic Regression
 
