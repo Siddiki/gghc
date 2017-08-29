@@ -130,7 +130,8 @@ A [blog post](https://blog.openai.com/unsupervised-sentiment-neuron/) from non-p
 ### Example output
 
 This is an example of snippets of a conference call that were processed by the program. 
-
+----------
+----------
 <html><style type='text/css'>
 html {
   font-family: Arial;
@@ -189,7 +190,8 @@ k {
 
 </g><br></html>
 
-
+----------
+----------
 
 ## Logistic Regression
 
