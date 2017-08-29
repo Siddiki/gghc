@@ -91,7 +91,9 @@ Interesting read about how bots affected the election: https://www.theatlantic.c
 
 ## Methodology
 
-This project is an effort to automate the identification of CFOs who have been a part of multiple companies that were acquired. 
+This project is an effort to automate the identification of CFOs who have been a part of multiple companies that were acquired.
+
+**Note this project was canceled because of linkedin changing their API access to non-partners.
 
 ##### Collaborators
 
@@ -101,7 +103,7 @@ Yaroslav Faybishenko
 
 ## Methodology
 
-This project documents the amount of times a location is being tagged on instagram.
+This project documents the amount of times a location is being tagged on instagram. Simple python script using Instagram API. 
 
 ##### Collaborators
 
@@ -109,9 +111,11 @@ Elena Burger, Lucy Tang
 
 # Earnings Calls Transcripts
 
-## Methodology
+## Introduction
 
-This project is an effort to learn attributes of earnings calls reports that have been indicative of positive results for a company in the past, and then process multiple reports to identify potentially interesting companies. 
+This project is a two-part machine learning effort that aims to unearth earnings calls that match the profile of the calls for stocks in our portfolio. The first part required the building of a sentiment analysis model that would analyze conference calls that led to taking a position in a stock - long or short - and build a profile of these stocks using certain metrics (e.g. percent negative, percent positive, composite sentiment score). The second portion is to build another machine learning model that would learn said profile and be able to take sentiment analysis scores from earnings calls that have not yet been read and output a probability of them matching the profile of calls that indicates long or short. The hope is to be able to find stocks that are similar to stocks we have found interesting in the past without actually having to have a human read every call for every stock on the market.
+
+## Sentiment Analysis
 
 ##### Collaborators
 
