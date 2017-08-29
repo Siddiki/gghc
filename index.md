@@ -131,12 +131,6 @@ A [blog post](https://blog.openai.com/unsupervised-sentiment-neuron/) from non-p
 
 This is an example of snippets of a conference call that were processed by the program. In order of most negative to most positive the highlighting scheme is as follows: red, yellow, no highlight, green, blue. 
 
-    .grayBorder {
-      border: 2px dashed gray;
-      padding: 50px;
-    }
-    
-<div class="grayBorder">
 ***
 <html><style type='text/css'>
 html {
@@ -162,7 +156,11 @@ y {
 k {
   color: #000000
 }
-</style><k>
+.grayBorder {
+ border: 2px dashed gray;
+ padding: 50px;
+ }
+</style><div style="grayBorder"<k>
 </k><br><b>In closing, our focus remains on executing our New World Fossil restructuring efforts, advancing our wearables initiative and stabilizing and growing our core watch business to drive long-term profitable growth. Given our conviction and the positive impact these initiatives can have on our financial performance, we are also working to ensure that we have the proper capital structure needed to support our long-term financial objectives.
 
 </b><br><k>
@@ -193,7 +191,7 @@ k {
 
 </k><br><g>We were able to offset the shortfall in our sales goals with higher traditional gross margins as we delivered stronger cost reductions in our supply chain and managed the quarter with lower recurring expenses.
 
-</g><br></html>
+</g><br></div></html>
 
 ***
 ```python
@@ -203,7 +201,7 @@ neutral: 0.5224358974358975
 average: 0.132615874293
 ```
 ***
-</div>
+
 ### Improvements
 
 The program requires some polishing - it is trained only on movie review data and not on actual conference call information. Results could potentially be highly improved and more accurate if a labeled set of statements from confernce calls was trained on. The issue here is the time it would take to label - human time sunk into individually labeling 10,000 sentences for the program to learn. Each call takes about 8 minutes to process on our current cloud instance.
@@ -216,6 +214,10 @@ Logistic Regression is a well studied problem with many widely available and suc
 At the time of this post sentiment data is being collected on calls in our portfolio.
 
 *TODO:* Insert 3d graph of call neg/pos/score vs l/s; post loss function plot;
+
+## Conclusion
+
+todo
 
 ##### Collaborators
 
