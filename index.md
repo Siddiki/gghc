@@ -187,7 +187,7 @@ k {
 
 </k><br><g>We were able to offset the shortfall in our sales goals with higher traditional gross margins as we delivered stronger cost reductions in our supply chain and managed the quarter with lower recurring expenses.
 
-</k><br></html>
+</g><br></html>
 
 
 
