@@ -117,6 +117,80 @@ This project is a two-part machine learning effort that aims to unearth earnings
 
 ## Sentiment Analysis
 
+One of the challenges in the area of natural language processing has been sentiment analysis. Much time and research went into building the model that would be able to process the sentiment of earnings calls, including many failed attempts at using various architectures and some attempts at document level classification. In this section I will mention some of the failed attempts and describe the model architecture that was chosen.
+
+### Deciding a Model Architecture - Research and Failed Attempts
+
+My research began with reading papers on classical natural language processing (NLP) using ideas such as bag-of-words and vector embeddings and evolved soon into deep learning territory. The biggest challenge facing me was deciding what architecture to use - with no real guidelines or rules of thumb on what would work best for the challenge facing me - I researched and implemented several models. The first challenge was deciding between convolutional (CNN) and recurrent neural networks (RNN). CNNs in general are effective at feature extraction, whereas RNNs have been effective in the past for sequential modeling (which is how we process text.) Ultimately after combing through multiple papers, blog posts, and github repositories, I settled on an recurrent neural network architecture known as multiplicative long short-term memory (mLSTM). 
+
+### mLSTM
+
+A [blog post](https://blog.openai.com/unsupervised-sentiment-neuron/) from non-profit AI research company [OpenAI](https://openai.com/about/) led me to looking into the architecture I ultimately chose for the sentiment analysis portion of the project. In their [research](https://arxiv.org/abs/1704.01444) they were aiming to build a generative model and found that in their architecture, almost the entire sentiment signal was contained in one distinct neuron. This led to state-of-the-art sentiment analysis accuracy on the Stanford Sentiment Treebank dataset (91.8% accuracy versus the previous best of 90.2%). I used and modified their [open source model](https://github.com/openai/generating-reviews-discovering-sentiment) for the task.
+
+### Example output
+
+This is an example of snippets of a conference call that were processed by the program. 
+
+## Logistic Regression
+
+
+<html><style type='text/css'>
+html {
+  font-family: Arial;
+}
+r {
+  background: #9D190E;
+}
+g {
+  background: #05AD0D;
+}
+b {
+  background: #0061ff;
+}
+y {
+  background: #FFC300
+}
+k {
+  color: #000000
+}
+</style><k>
+...
+</k><br><b>In closing, our focus remains on executing our New World Fossil restructuring efforts, advancing our wearables initiative and stabilizing and growing our core watch business to drive long-term profitable growth. Given our conviction and the positive impact these initiatives can have on our financial performance, we are also working to ensure that we have the proper capital structure needed to support our long-term financial objectives.
+
+</b><br><k>
+
+</k><br><b>We are taking the necessary steps to strengthen our financial position to further enable us to execute our strategies well into the future and position our business model for continued strong cash flow generation.
+
+</b><br><k>
+
+</k><br><g>Now I'd like to turn the call over to Dennis for additional color on our financial performance.
+
+</g><br><k>
+
+</k><br>Dennis R. Secor - Fossil Group, Inc.
+
+<br><k>
+
+</k><br><k>Thanks, Kosta, and good afternoon, everyone. Before I provide an operational review of the quarter, let me discuss the impairment charge we've reported on today. In the quarter, we recognized a $407 million or $6.50 per share non-cash charge to impair certain intangible assets primarily related to goodwill. The impairment was triggered by the sustained compression of our market cap that occurred throughout most of the back half of the second quarter. This charge significantly impacts this quarter's operating expenses. However, it does not impact our liquidity or financial covenant calculation. I will isolate it where relevant as I discuss our overall results.
+
+</k><br><k>
+
+</k><br><r>Second quarter constant currency net sales decreased 12% and on a reported basis decreased 13% to $597 million. Our traditional watch business performed within our expectations, though still down compared to a year ago. During the quarter, wearables continued to positively impact the trend of our business. Overall, wearables represented roughly 9% of our sales for the quarter, a sequential improvement from the 7% in the first quarter.
+
+</r><br><k>
+
+</k><br><y>Our Connected business, which posted more than a 300% increase off a relatively low base last year, did not fully deliver against our ambitious goals for the quarter. Overall, our sales for the quarter were just short of our expectations.
+
+</y><br><k>
+
+</k><br><g>We were able to offset the shortfall in our sales goals with higher traditional gross margins as we delivered stronger cost reductions in our supply chain and managed the quarter with lower recurring expenses.
+
+</g><br><k>
+
+</k><br><y>Excluding the non-cash impairment, we delivered a bottom line at the top end of our expectations. We reported a net loss of $7.11 per share including $6.50 per share due to the intangible asset impairment charges. We recorded $10 million or $0.13 per share related to our New World Fossil restructuring initiatives. The decline compared to last year was primarily driven by impairment charges, lower sales and gross margins and restructuring charges, which was partially offset by lower recurring operating expenses. Second quarter loss per share was negatively impacted by $0.08 due to changes in foreign currency given the stronger U.S. dollar's negative impact on sales and operating margins.
+
+</y><br><k>
+...</html>
 ##### Collaborators
 
 Yaroslav Faybishenko, Steve Steinberg
