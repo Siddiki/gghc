@@ -190,7 +190,8 @@ k {
 </k><br><y>Excluding the non-cash impairment, we delivered a bottom line at the top end of our expectations. We reported a net loss of $7.11 per share including $6.50 per share due to the intangible asset impairment charges. We recorded $10 million or $0.13 per share related to our New World Fossil restructuring initiatives. The decline compared to last year was primarily driven by impairment charges, lower sales and gross margins and restructuring charges, which was partially offset by lower recurring operating expenses. Second quarter loss per share was negatively impacted by $0.08 due to changes in foreign currency given the stronger U.S. dollar's negative impact on sales and operating margins.
 
 </y><br><k>
-...</html>
+...
+
 ##### Collaborators
 
 Yaroslav Faybishenko, Steve Steinberg
