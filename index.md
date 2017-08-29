@@ -129,7 +129,7 @@ A [blog post](https://blog.openai.com/unsupervised-sentiment-neuron/) from non-p
 
 ### Example output
 
-This is an example of snippets of a conference call that were processed by the program. 
+This is an example of snippets of a conference call that were processed by the program. In order of most negative to most positive the highlighting scheme is as follows: red, yellow, no highlight, green, blue. 
 ----------
 ----------
 <html><style type='text/css'>
