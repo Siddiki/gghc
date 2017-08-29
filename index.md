@@ -131,7 +131,7 @@ A [blog post](https://blog.openai.com/unsupervised-sentiment-neuron/) from non-p
 
 This is an example of snippets of a conference call that were processed by the program. In order of most negative to most positive the highlighting scheme is as follows: red, yellow, no highlight, green, blue. 
 
-    .graBorder {
+    .grayBorder {
       border: 2px dashed gray;
       padding: 50px;
     }
