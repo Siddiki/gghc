@@ -188,7 +188,18 @@ k {
 </k><br><g>We were able to offset the shortfall in our sales goals with higher traditional gross margins as we delivered stronger cost reductions in our supply chain and managed the quarter with lower recurring expenses.
 
 </g><br></html>
+
 ***
+```python
+negative: 0.0746606334841629
+positive: 0.4029034690799397
+neutral: 0.5224358974358975
+average: 0.132615874293
+```
+***
+### Improvements
+
+The program requires some polishing - it is trained only on movie review data and not on actual conference call information. Results could potentially be highly improved and more accurate if a labeled set of statements from confernce calls was trained on. The issue here is the time it would take to label - human time sunk into individually labeling 10,000 sentences for the program to learn.
 
 ## Logistic Regression
 
