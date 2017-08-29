@@ -160,7 +160,7 @@ k {
  border: 2px dashed gray;
  padding: 50px;
  }
-</style><div style="grayBorder"<k>
+</style><div style="grayBorder"><k>
 </k><br><b>In closing, our focus remains on executing our New World Fossil restructuring efforts, advancing our wearables initiative and stabilizing and growing our core watch business to drive long-term profitable growth. Given our conviction and the positive impact these initiatives can have on our financial performance, we are also working to ensure that we have the proper capital structure needed to support our long-term financial objectives.
 
 </b><br><k>
