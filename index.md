@@ -137,6 +137,7 @@ This is an example of snippets of a conference call that were processed by the p
 <html><style type='text/css'>
 html {
   font-family: Arial;
+  color: #000000;
 }
 r {
   background: #9D190E;
