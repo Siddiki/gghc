@@ -200,7 +200,7 @@ Below is the graph of the scores of calls for 150 long and 150 short positions i
 ## Logistic Regression
 Logistic regression models are trained to output probabilities to make classifications based on input data. The idea is to train on the sentiment profiles of conference calls that led to positions and then be able to predict the probability of a call being a short or a long based on its own sentiment profile. Below is a graph of the accuracy of the model. 
 
-
+![graph2](https://github.com/Siddiki/gghc/blob/master/acc.png?raw=true)
 
 ## Conclusion
 
