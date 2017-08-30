@@ -119,10 +119,6 @@ The goal of this project is to be able to find stocks that are similar to stocks
 
 One of the challenges in the area of natural language processing has been sentiment analysis. Much time and research went into building the model that would be able to process the sentiment of earnings calls, including many failed attempts at using various architectures and some attempts at document level classification. In this section I will mention some of the failed attempts and describe the model architecture that was chosen.
 
-### Deciding a Model Architecture - Research and Failed Attempts
-
-My research began with reading papers on classical natural language processing (NLP) using ideas such as bag-of-words and vector embeddings and evolved soon into deep learning territory. The biggest challenge facing me was deciding what architecture to use - with no real guidelines or rules of thumb on what would work best for the challenge facing me - I researched and implemented several models. The first challenge was deciding between convolutional (CNN) and recurrent neural networks (RNN). CNNs in general are effective at feature extraction, whereas RNNs have been effective in the past for sequential modeling (which is how we process text.) Ultimately after combing through multiple papers, blog posts, and github repositories, I settled on an recurrent neural network architecture known as multiplicative long short-term memory (mLSTM). 
-
 ### mLSTM
 
 A [blog post](https://blog.openai.com/unsupervised-sentiment-neuron/) from non-profit AI research company [OpenAI](https://openai.com/about/) led me to looking into the architecture I ultimately chose for the sentiment analysis portion of the project. In their [research](https://arxiv.org/abs/1704.01444) they were aiming to build a generative model and found that in their architecture, almost the entire sentiment signal was contained in one distinct neuron. This led to state-of-the-art sentiment analysis accuracy on the Stanford Sentiment Treebank dataset (91.8% accuracy versus the previous best of 90.2%). I used and modified their [open source model](https://github.com/openai/generating-reviews-discovering-sentiment) for the task.
@@ -203,17 +199,16 @@ average: 0.132615874293
 ***
 Below is the graph of the scores of calls for 150 long and 150 short positions in the DH group portfolio. The logistic regression model learns based on this data to classify calls as long or short. Red markers represent short positions and blue markers represent long positions.
 
-![graph1](https://github.com/Siddiki/gghc/blob/master/graph.PNG)
+![graph1](https://github.com/Siddiki/gghc/blob/master/graph.PNG?raw=true)
 
 ## Logistic Regression
 Logistic regression models are trained to output probabilities to make classifications based on input data. The idea is to train on the sentiment profiles of conference calls that led to positions and then be able to predict the probability of a call being a short or a long based on its own sentiment profile. Below is a graph of the accuracy of the model. 
 
-![graph2](https://github.
-
-Logistic Regression is a well studied problem with many widely available and succesful architectures available for use. The one I am using for this project is a modified version of the model that can be found [here](https://github.com/nfmcclure/tensorflow_cookbook/tree/master/03_Linear_Regression/08_Implementing_Logistic_Regression). 
+![graph2](https://github.com/Siddiki/gghc/blob/master/acc.png?raw=true)
 
 ## Conclusion
 
+The model achieves approximately **71 % accuracy** in classifying a stock as a long or a short based on the similarity of conference call data to that of calls which may have led to taking a position in the past. It is important to note that 
 ### Improvements
 
 The program requires some polishing - it is trained only on movie review data and not on actual conference call information. Results could potentially be highly improved and more accurate if a labeled set of statements from confernce calls was trained on. The issue here is the time it would take to label - human time sunk into individually labeling 10,000 sentences for the program to learn. Each call takes about 8 minutes to process on our current cloud instance.
