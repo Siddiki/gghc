@@ -213,7 +213,9 @@ Logistic Regression is a well studied problem with many widely available and suc
 
 Below is the graph of the scores of calls for 150 long and 150 short positions in the DH group portfolio. The logistic regression model leanrs based on this data to classify calls as long or short. Red markers represent short positions and blue markers represent long positions.
 
-[[https://github.com/Siddiki/gghc/blob/master/graph.PNG]]
+[graph1](https://github.com/Siddiki/gghc/blob/master/graph.PNG)
+
+foo foo 
 
 *TODO:* Insert 3d graph of call neg/pos/score vs l/s; post loss function plot;
 
