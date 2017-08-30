@@ -218,7 +218,7 @@ My research began with reading papers on classical natural language processing (
 
 ### mLSTM
 
-A [blog post](https://blog.openai.com/unsupervised-sentiment-neuron/) from non-profit AI research company [OpenAI](https://openai.com/about/) led me to looking into the architecture I ultimately chose for the sentiment analysis portion of the project. In their [research](https://arxiv.org/abs/1704.01444) they were aiming to build a generative model and found that in their architecture, almost the entire sentiment signal was contained in one distinct neuron. This led to state-of-the-art sentiment analysis accuracy on the Stanford Sentiment Treebank dataset (91.8% accuracy versus the previous best of 90.2%). I used and modified their [open source model](https://github.com/openai/generating-reviews-discovering-sentiment) for the task.
+A [blog post](https://blog.openai.com/unsupervised-sentiment-neuron/) from non-profit AI research company [OpenAI](https://openai.com/about/) led me to looking into the architecture I ultimately chose for the sentiment analysis portion of the project. In their [research](https://arxiv.org/abs/1704.01444) they were aiming to build a generative model and found that in their architecture, almost the entire sentiment signal was contained in one distinct neuron. This led to state-of-the-art sentiment analysis accuracy on the Stanford Sentiment Treebank dataset (91.8% accuracy versus the previous best of 90.2%). I used and modified their [open source model](https://github.com/openai/generating-reviews-discovering-sentiment) for the task. 
 
 ### Logistic Regression
 
