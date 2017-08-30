@@ -212,9 +212,9 @@ Logistic regression models are trained to output probabilities to make classific
 Logistic Regression is a well studied problem with many widely available and succesful architectures available for use. The one I am using for this project is a modified version of the model that can be found [here](https://github.com/nfmcclure/tensorflow_cookbook/tree/master/03_Linear_Regression/08_Implementing_Logistic_Regression). 
 
 Below is the graph of the scores of calls for 150 long and 150 short positions in the DH group portfolio. The logistic regression model leanrs based on this data to classify calls as long or short. Red markers represent short positions and blue markers represent long positions.
-<html>
+
 <img src="https://github.com/Siddiki/gghc/blob/master/graph.PNG")
-     </html>
+
 *TODO:* Insert 3d graph of call neg/pos/score vs l/s; post loss function plot;
 
 ## Conclusion
