@@ -224,6 +224,7 @@ A [blog post](https://blog.openai.com/unsupervised-sentiment-neuron/) from non-p
 
 Logistic Regression is a well studied problem with many widely available and succesful architectures available for use. The one I am using for this project is a modified version of the model that can be found [here](https://github.com/nfmcclure/tensorflow_cookbook/tree/master/03_Linear_Regression/08_Implementing_Logistic_Regression).
 
+
 ##### Collaborators
 
 Yaroslav Faybishenko, Steve Steinberg
