@@ -219,8 +219,7 @@ Below is the graph of the scores of calls for 150 long and 150 short positions i
 
 ## Conclusion
 
-todo
-
+FOOOOO
 ##### Collaborators
 
 Yaroslav Faybishenko, Steve Steinberg
