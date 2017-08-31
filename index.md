@@ -221,7 +221,7 @@ Below are the results of analysis on real conference calls from 10 companies wit
 
 ## Conclusion
 
-The model achieves approximately **68% accuracy** in classifying a stock as a long or a short based on the similarity of conference call data to that of calls which may have led to taking a position in the past. An untrained model should theoretically be at about 50% accuracy. It is important to note that this accuracy does not represent or predict the *performance of stocks* but rather the ability of the model **to recognize the patterns of the group's positions in the past.** And of course it does not take into account anything asides from the sentiment data of a call itself, whereas when a portfolio manager takes a position, much additional analysis is reviewed. This could include considering other stocks, the performance of the industry, conference calls prior to the last call before taking a position, etc. 
+The model achieves approximately **86% accuracy** in classifying a stock as a long or a short based on the similarity of conference call data to that of calls which may have led to taking a position in the past. An untrained model should theoretically be at about 50% accuracy. It is important to note that this accuracy does not represent or predict the *performance of stocks* but rather the ability of the model **to recognize the patterns of the group's positions in the past.** And of course it does not take into account anything asides from the sentiment data of a call itself, whereas when a portfolio manager takes a position, much additional analysis is reviewed. This could include considering other stocks, the performance of the industry, conference calls prior to the last call before taking a position, etc. 
 
 ### Improvements
 
