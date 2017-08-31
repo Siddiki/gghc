@@ -206,7 +206,7 @@ Logistic regression models are trained to output probabilities to make classific
 
 Below are the results of analysis on real conference calls from 10 companies with market cap over $500M
 
-| Ticker | Sigmoid Output | Users Created Q1 2016 |
+| Ticker | Sigmoid Output | Prediction            |
 |--------|----------------|-----------------------|
 | MCRB   |                |                       |
 | CARB   |                |                       |
