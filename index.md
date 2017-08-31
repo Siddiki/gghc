@@ -206,18 +206,18 @@ Logistic regression models are trained to output probabilities to make classific
 
 Below are the results of analysis on real conference calls from 10 companies with market cap over $500M
 
-| Ticker | Sigmoid Output | Prediction            |
-|--------|----------------|-----------------------|
-| MCRB   |                |                       |
-| CARB   |                |                       |
-| GNMK   |                |                       |
-| GDEN   |                |                       |
-| HMTV   |                |                       |
-| ABEO   |                |                       |
-| BLDP   |                |                       |
-| PLAB   |                |                       |
-| OSTK   |                |                       |
-| MBUU   |                |                       |
+| Ticker | Sigmoid Output | Prediction |
+|--------|----------------|------------|
+| MCRB   | 0.26           | SHORT      |
+| CARB   | 0.98           | LONG       |
+| GNMK   | 0.98           | LONG       |
+| GDEN   | 0.43           | SHORT      |
+| HMTV   | 0.84           | LONG       |
+| ABEO   | 0.98           | LONG       |
+| BLDP   | 0.62           | LONG       |
+| PLAB   | 0.10           | SHORT      |
+| OSTK   | 0.73           | LONG       |
+| MBUU   | 0.49           | SHORT      |
 
 ## Conclusion
 
