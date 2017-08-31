@@ -208,16 +208,16 @@ Below are the results of analysis on real conference calls from 10 companies wit
 
 | Ticker | Sigmoid Output | Prediction |
 |--------|----------------|------------|
-| MCRB   | 0.26           | SHORT      |
-| CARB   | 0.98           | LONG       |
-| GNMK   | 0.98           | LONG       |
-| GDEN   | 0.43           | SHORT      |
-| HMTV   | 0.84           | LONG       |
-| ABEO   | 0.98           | LONG       |
-| BLDP   | 0.62           | LONG       |
-| PLAB   | 0.10           | SHORT      |
-| OSTK   | 0.73           | LONG       |
-| MBUU   | 0.49           | SHORT      |
+| MCRB   | 0.39           | SHORT      |
+| CARB   | 0.73           | LONG       |
+| GNMK   | 0.74           | LONG       |
+| GDEN   | 0.44           | SHORT      |
+| HMTV   | 0.61           | LONG       |
+| ABEO   | 0.72           | LONG       |
+| BLDP   | 0.51           | LONG       |
+| PLAB   | 0.23           | SHORT      |
+| OSTK   | 0.53           | LONG       |
+| MBUU   | 0.39           | SHORT      |
 
 ## Conclusion
 
